@@ -6,7 +6,7 @@ Key Features:-
   Global City Search – Real-time query lookups for tracking atmospheric details globally.
   Dynamic Live Data – Renders accurate metrics for temperature, humidity, and wind conditions.
   Asynchronous Architecture – Leverages robust JS Fetch APIs to query data seamlessly without reloading.
-  Error Management – Safe exception handling architectures to gracefully process invalid city inputs.
+  Error Management – Safe exception-handling architectures for gracefully processing invalid city inputs.
 
 Built With
   Frontend: HTML5, CSS3 (Flexible Viewports)
