@@ -6,8 +6,8 @@ Main Sections
 
   1. Global Lookup Console – Input query system handling instantaneous city searches.
   2. Meteorological Overview – Active data display tracking heat, wind speeds, and moisture index.
-  3. Exception Console – Safe error handling architecture processing missing or broken requests.
-  4. Dynamic Card Canvas – Responsive styling blocks altering visually based on search feedback.
+  3. Exception Console – Safe error handling architecture for processing missing or broken requests.
+  4. Dynamic Card Canvas – Responsive styling blocks alter visually based on search feedback.
 
 Built With
 
